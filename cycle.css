@@ -1,0 +1,37 @@
+*{	
+	font-family: 'Varela Round', sans-serif;
+}
+
+.topnav{
+	overflow: hidden;
+}
+
+.topnav a{
+	color: #808080;
+	text-decoration:none;
+	float: left;
+	font-size: 15px;
+	padding: 4px 15px; 
+}
+
+.topnav a:hover{
+	color: #000000;
+}
+
+body{
+	background-color: white;
+	color: #00203FFF;
+	/*style="display: block; width: 75%; margin-left: auto;margin-right: auto;"*/
+}
+head:hover{
+	fill:orange;
+}
+
+#gradient{
+	height: 200px;
+	background-image: linear-gradient(black,white);
+}
+#bgs{
+	width: 100%;
+	padding: auto 30%;
+}
